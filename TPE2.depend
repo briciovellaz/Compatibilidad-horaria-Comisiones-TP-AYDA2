@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1623903413 source:c:\users\brici\onedrive\documentos\codeblocks\tpe2\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<tuple>
+	<algorithm>
+	<vector>
+	<string>
+
+1624022403 source:c:\users\brici\documents\codeblocks\tpe2\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<tuple>
+	<algorithm>
+	<string>
+
